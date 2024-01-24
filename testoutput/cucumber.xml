@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="25.68212">
+    <testcase classname="Heroku Login" name="Vaildate Username, Password and Login Functionality" time="25.68212">
+        <system-out><![CDATA[Given Open the browser and enter the URL....................................passed
+And Validate the URL........................................................passed
+When Enter Username.........................................................passed
+And Enter user Password.....................................................passed
+And Click on Login..........................................................passed
+Then User logged in successfully............................................passed
+And Home Page should be displayed...........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
